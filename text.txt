@@ -4,4 +4,4 @@ This is third line
 This is fourth line. 
 Fifth line is added.
 Six number line from feature branch
-
+new line is added from the feature branch to show a merge conflict
