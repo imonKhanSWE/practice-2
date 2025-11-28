@@ -3,5 +3,5 @@ This is text1 second line.
 This is third line
 This is fourth line. 
 Fifth line is added.
-Six number line from main branch
-This text is added from the main branch to show merge conflict
+Six number line from feature branch
+new line is added from the feature branch to show a merge conflict
